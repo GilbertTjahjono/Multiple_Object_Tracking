@@ -11,7 +11,7 @@ Getting Started:
 
 wait a bit and you should see this kind of window popping out on your screen
 
-![image](https://drive.google.com/file/d/1vguCd1juCq5K5-Ei61lnrZEIU5N1hFK3/view?usp=sharing)
+![image](https://github.com/GilbertTjahjono/Multiple_Object_Tracking/blob/main/data/ReadMe.png?raw=true)
 
 5. In order to run the live plot mode, open a second command prompt
 6. Run this following line: python Live_Plot.py
